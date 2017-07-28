@@ -1,0 +1,28 @@
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\bin\Debug\KTaNE Manual.exe.config
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\bin\Debug\KTaNE Manual.exe
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\bin\Debug\KTaNE Manual.pdb
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE Manual.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.MainMenu.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.Properties.Resources.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE Manual.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE Manual.exe
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE Manual.pdb
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.WiresForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.ButtonForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.SymbolsForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.SimonSaysForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.WhosOnFirstForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.WhosOnFirstStepTwo.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.MemoryForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.CompWiresForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.MazeForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.MorseCodeForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.WireSeqForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE_Manual.PasswordsForm.resources
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\bin\Debug\KTaNE Manual.exe.manifest
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\bin\Debug\KTaNE Manual.application
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE Manual.exe.manifest
+C:\Users\William\Desktop\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE Manual.application
+C:\Users\William\Documents\Visual Studio 2015\Projects\KTaNE Manual\KTaNE Manual\bin\Debug\KTaNE Manual.exe.config
+C:\Users\William\Documents\Visual Studio 2015\Projects\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE Manual.exe
+C:\Users\William\Documents\Visual Studio 2015\Projects\KTaNE Manual\KTaNE Manual\obj\Debug\KTaNE Manual.pdb
