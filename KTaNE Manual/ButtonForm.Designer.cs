@@ -45,18 +45,25 @@
             // 
             // ButtonBackButton
             // 
+            this.ButtonBackButton.BackColor = System.Drawing.Color.Black;
+            this.ButtonBackButton.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(35)))), ((int)(((byte)(38)))));
+            this.ButtonBackButton.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(130)))), ((int)(((byte)(130)))));
+            this.ButtonBackButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(80)))));
+            this.ButtonBackButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ButtonBackButton.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(251)))), ((int)(((byte)(248)))), ((int)(((byte)(248)))));
             this.ButtonBackButton.Location = new System.Drawing.Point(12, 12);
             this.ButtonBackButton.Name = "ButtonBackButton";
             this.ButtonBackButton.Size = new System.Drawing.Size(678, 23);
             this.ButtonBackButton.TabIndex = 1;
             this.ButtonBackButton.Text = "Back to Main Menu";
-            this.ButtonBackButton.UseVisualStyleBackColor = true;
+            this.ButtonBackButton.UseVisualStyleBackColor = false;
             this.ButtonBackButton.Click += new System.EventHandler(this.ButtonBackButton_Click);
             // 
             // ButtonForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(35)))), ((int)(((byte)(38)))));
             this.ClientSize = new System.Drawing.Size(702, 615);
             this.Controls.Add(this.ButtonBackButton);
             this.Controls.Add(this.pictureBox1);
@@ -64,7 +71,7 @@
             this.MaximumSize = new System.Drawing.Size(718, 654);
             this.MinimumSize = new System.Drawing.Size(718, 654);
             this.Name = "ButtonForm";
-            this.Text = "Button Module";
+            this.Text = "KTaNE | Button Module";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

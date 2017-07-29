@@ -809,7 +809,7 @@
         private System.Windows.Forms.PictureBox Large;
         private System.Windows.Forms.PictureBox Sound;
         private System.Windows.Forms.PictureBox Small;
-        private System.Windows.Forms.PictureBox Right;
+        private new System.Windows.Forms.PictureBox Right;
         private System.Windows.Forms.PictureBox Point;
         private System.Windows.Forms.PictureBox Plant;
         private System.Windows.Forms.PictureBox There;
